@@ -1,6 +1,6 @@
-# Wordpress_to_codeIgniter
+# Copy content from wordpress to codeIgniter ( Staff Member Functions )
 
-#Job 
+# Job 
 
   Duplicate Staff Member Functionality to Code igniter
 
